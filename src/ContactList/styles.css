@@ -1,0 +1,42 @@
+div.main{
+    display: flex;
+}
+div.list-item{
+    border: 1px solid;
+    width: 30%;
+    display: flex;
+    background-color: darkgray;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+div.user-list{
+    margin-left: 2em;
+}
+div.detail-item{
+    margin: 5px;
+    border: 1px solid;
+    width: 15%;
+    background-color: darkgray;
+}
+img.image{
+    width: 100%;
+}
+input.search{
+    width: 25%;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+    margin-right: 10px;
+}
+button.change{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: inherit;
+    background-color: #4267b2;
+    border-radius: 7px;
+}
